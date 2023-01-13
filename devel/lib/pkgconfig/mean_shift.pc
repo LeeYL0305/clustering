@@ -1,0 +1,8 @@
+prefix=/home/cona/Clustering_ws/devel
+
+Name: mean_shift
+Description: Description of mean_shift
+Version: 0.0.0
+Cflags: -I/home/cona/Clustering_ws/src/mean_shift/include
+Libs: -L${prefix}/lib -lmean_shift
+Requires: roscpp std_msgs

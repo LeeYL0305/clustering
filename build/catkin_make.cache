@@ -1,0 +1,2 @@
+mean_shift
+-DCATKIN_DEVEL_PREFIX=/home/cona/Clustering_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cona/Clustering_ws/install -G Unix Makefiles
